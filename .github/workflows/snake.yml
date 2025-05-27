@@ -27,8 +27,9 @@ jobs:
         with:
           github_user_name: Ddiy0ng
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+      
+            # dist/github-contribution-grid-snake.svg
+            # dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             dist/github-snake-dark.svg?color_snake=#589A7D&color_dots=#282828,#515151,#777777,#9E9E9E,#B9B9B9,#DCDCDC
 
       # push the content of <build_dir> to a branch
