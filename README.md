@@ -25,23 +25,26 @@
   ![Tech Stack](https://capsule-render.vercel.app/api?type=blur&text=Tech%20Stack&color=gradient&height=200&fontSize=50)
   
   ### 💻 Languages
+
+  <br/>
+
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiy0ng&layout=donut&theme=gotham)](https://github.com/Ddiy0ng/github-readme-stats) 
+  
   <!--Java-->
   <img src="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white" />
   <!--JavaScript-->
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
   <!--HTML5-->
   <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white"/>
+
+  <br/>
   <!--CSS-->
   <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white"/>
   <!--C++-->
   <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
-  <!--MySQL-->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <br/>
-  <br/>
-  <br/>
+  <!--SQL-->
+  <img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=sql&logoColor=white"/>
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiy0ng&layout=donut&theme=gotham)](https://github.com/Ddiy0ng/github-readme-stats) 
   <br/>
   <br/>
   
@@ -58,8 +61,12 @@
   <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <!--vs-->
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
+  
+  <br/>
   <!--eclipse-->
   <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"/>
+  <!--postman-->
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
 
   <br/>
   <br/>
@@ -71,6 +78,9 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <!--firebase-->
   <img src="https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <!--MySQL-->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  
   <br/>
   <br/>
 
