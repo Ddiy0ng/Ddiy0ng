@@ -14,7 +14,7 @@
   #### :mortar_board: Education
   _Hankuk University Of Foreign Studies(HUFS)_
   > #### - B.A, Korean Studies
-  > #### - B.S, Bachelor of Computer Engineering
+  > #### - B.S, Computer Engineering
   <br/>
   <br/>
 
