@@ -96,7 +96,7 @@
   <!--instagram-->
   <a href="https://www.instagram.com/gum_ba__?igsh=bGVvbXdibjRnOG95"><img src="https://img.shields.io/badge/Instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=white"/>
   <!--gmail-->
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:bueong0627@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/bueong0627@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:bueong0627@gmail.com)
  
   <br/>
   <br/>
