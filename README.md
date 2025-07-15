@@ -27,9 +27,6 @@
   ### 💻 Languages
 
   <br/>
-
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ddiy0ng&layout=donut&theme=gotham)](https://github.com/Ddiy0ng/github-readme-stats) 
-  
   <!--Java-->
   <img src="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white" />
   <!--JavaScript-->
@@ -110,17 +107,9 @@
 
 
 ### 🌳 Contributions
-<img src="https://github.com/Ddiy0ng/Ddiy0ng/blob/output/github-snake-dark.svg">
   
 [![Ddiy0ng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ddiy0ng&theme=gotham)](https://github.com/Ddiy0ng/github-readme-activity-graph)
   
   <br/>
-
-</div>
-
-<div align="center">  
-  
-  ![Ddiy0ng's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ddiy0ng&theme=gotham&show_icons=true)
-    
 
 </div>
