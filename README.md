@@ -100,16 +100,3 @@
   <br/>
 
  </div>
-
- <div align="center">  
-   
-  ![Tech Stack](https://capsule-render.vercel.app/api?type=blur&text=Git%20Activity&color=gradient&height=200&fontSize=50)
-
-
-### 🌳 Contributions
-  
-[![Ddiy0ng's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Ddiy0ng&theme=gotham)](https://github.com/Ddiy0ng/github-readme-activity-graph)
-  
-  <br/>
-
-</div>
