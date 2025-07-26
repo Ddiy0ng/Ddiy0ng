@@ -1,7 +1,7 @@
 <div align="center">
   <!--Header-->
   
-  ![header](https://capsule-render.vercel.app/api?type=waving&text=Ddiyong%20Github&color=gradient&height=220)
+  ![header](https://capsule-render.vercel.app/api?type=waving&text=Sohee%20Park&color=gradient&height=120)
   
 </div>
 
@@ -9,12 +9,12 @@
 <div align="center">
   <!--Body-->
   
-  ## ✔️ Introduction
-  #### 🌐 South Korea Back-end Engineer<br/>
-  #### :mortar_board: Education
-  _Hankuk University Of Foreign Studies(HUFS)_
-  > #### - B.A, Korean Studies
-  > #### - B.S, Computer Engineering
+  ## Introduction
+  #### _Back-end Engineer_
+  #### _Hankuk University Of Foreign Studies(HUFS)_
+  > #### _- B.A, Korean Studies_
+  > #### _- B.S, Computer Engineering_
+ 
   <br/>
   <br/>
 
@@ -24,7 +24,7 @@
 
   ![Tech Stack](https://capsule-render.vercel.app/api?type=blur&text=Tech%20Stack&color=gradient&height=200&fontSize=50)
   
-  ### 💻 Languages
+  ### Languages
 
   <br/>
   <!--Java-->
@@ -45,13 +45,13 @@
   <br/>
   <br/>
   
-  ### 🌱 Frameworks
+  ### Frameworks
   <!--Spring-->
   <img src="https://img.shields.io/badge/Spring-6db33f?style=for-the-badge&logo=spring&logoColor=white"/>
   <br/>
   <br/>
   
-  ### 🛠️ Tools
+  ### Tools
   <!--Intellij-->
   <img src="https://img.shields.io/badge/Intellij IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <!--vscode-->
@@ -68,7 +68,7 @@
   <br/>
   <br/>
   
-  ### 🧰 etc
+  ### etc
   <!--Slack-->
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <!--gitHub-->
@@ -81,13 +81,15 @@
   <br/>
   <br/>
 
-  ### 📝 Blog
+  ### Blog
   <!--tistory-->
   <a href="https://bueong0627.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=tistory&logoColor=white"/>
+ 
   <br/>
   <br/>
-  
-  ### 📞 Contact
+
+  ![Tech Stack](https://capsule-render.vercel.app/api?type=blur&text=Contact&color=gradient&height=200&fontSize=50)
+
   <!--kakaoTalk-->
   <a href="https://open.kakao.com/o/s4umxCyh"><img src="https://img.shields.io/badge/KakaoTalk-FFCD00?style=for-the-badge&logo=kakaotalk&logoColor=white"/>
   <!--instagram-->
@@ -95,8 +97,4 @@
   <!--gmail-->
   [![Gmail Badge](https://img.shields.io/badge/bueong0627@gmail.com-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:bueong0627@gmail.com)
  
-  <br/>
-  <br/>
-  <br/>
-
  </div>
