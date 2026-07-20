@@ -29,16 +29,6 @@
   <br/>
   <!--Java-->
   <img src="https://img.shields.io/badge/java-007396?&style=for-the-badge&logo=java&logoColor=white" />
-  <!--JavaScript-->
-  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />
-  <!--HTML5-->
-  <img src="https://img.shields.io/badge/HTML5-e34f26?style=for-the-badge&logo=HTML5&logoColor=white"/>
-
-  <br/>
-  <!--CSS-->
-  <img src="https://img.shields.io/badge/CSS3-1572b6?style=for-the-badge&logo=CSS3&logoColor=white"/>
-  <!--C++-->
-  <img src="https://img.shields.io/badge/C++-00599c?style=for-the-badge&logo=C%2B%2B&logoColor=white"/>
   <!--SQL-->
   <img src="https://img.shields.io/badge/SQL-e38c00?style=for-the-badge&logo=sql&logoColor=white"/>
   
